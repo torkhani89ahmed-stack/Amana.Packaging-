@@ -1,0 +1,8 @@
+{
+  "appId": "com.amana.packaging",
+  "appName": "AMANA PACKAGING",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
